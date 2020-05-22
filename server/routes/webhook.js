@@ -1,10 +1,10 @@
 const express = require("express")
 const router = express.Router()
 const request = require('request')
-const { mongoose } = require("../db/mongoose")
+// const { mongoose } = require("../db/mongoose")
 
-var { User } = require("../models/user")
-var { Family } = require("../models/family")
+// var { User } = require("../models/user")
+// var { Family } = require("../models/family")
 
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN
 

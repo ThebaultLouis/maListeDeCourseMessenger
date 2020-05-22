@@ -4,8 +4,6 @@ var cors = require('cors')
 var bodyParser = require('body-parser')
 var _ = require('lodash')
 
-
-
 var app = express()
 app.use(cors())
 app.use(bodyParser.json())
