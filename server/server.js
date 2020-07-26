@@ -8,6 +8,9 @@ var app = express()
 app.use(cors())
 app.use(bodyParser.json())
 
+app.get('/policy', (req, res) => {
+  res.send("Wollah on stocke rien")
+})
 
 // WebHook
 const webhook = require('./routes/webhook')

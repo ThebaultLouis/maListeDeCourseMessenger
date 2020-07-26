@@ -1,6 +1,5 @@
 {
   "development": {
-    "URL": "localhost",
     "PORT": 3000,
     "MONGODB_URI": "mongodb://localhost:27017/maListeDeCourse",
     "PAGE_ACCESS_TOKEN": "EAAlYHPjRzJ0BAKp5VZCX3VpXF95s3SJeUVevx6xRe1ZBodtqm9ZCAnvm64BzoaZBbt0WavZBpidsquriq7kDBXZC0yHfG7q8FEd2RSaARDKMVDV06PPyCrOdpZCdasMRHBc6TnU9s7QwABZBjSMSVAdjgql1ZAMhOQsWXHWvigam90TvRQSyeOv6x"
